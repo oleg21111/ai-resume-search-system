@@ -57,8 +57,8 @@ Employs a cutting-edge multimodal model (Claude) that processes the entire PDF a
 
 ## 💼 Business Impact
 
-✅ **Saves up to 40 hours of recruiter time per month** by eliminating manual screening.
-⚡️ **Accelerates time-to-hire** by providing instant access to a shortlist of relevant candidates.
-🧠 **Improves quality-of-hire** by uncovering "hidden gems" within the company's existing talent pool.
-💰 **Reduces Cost-per-Hire** through more efficient utilization of the internal candidate database.
-🎯 **Increases the ROI of the HR team**, allowing specialists to focus on engaging top candidates rather than searching for them.
+-  ✅ **Saves up to 40 hours of recruiter time per month** by eliminating manual screening.
+-  ⚡️ **Accelerates time-to-hire** by providing instant access to a shortlist of relevant candidates.
+-  🧠 **Improves quality-of-hire** by uncovering "hidden gems" within the company's existing talent pool.
+-  💰 **Reduces Cost-per-Hire** through more efficient utilization of the internal candidate database.
+-  🎯 **Increases the ROI of the HR team**, allowing specialists to focus on engaging top candidates rather than searching for them.
